@@ -125,6 +125,7 @@ A full-stack web-based marketplace application with advanced features including 
 - Authentication & notification system
 
 **Tech Stack:**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -147,6 +148,7 @@ A web-based e-commerce platform to explore trending products with advanced filte
 - Detailed product pages
 
 **Tech Stack:**
+
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
@@ -165,6 +167,7 @@ A web-based system for managing livestock and farm operations efficiently with A
 - AI-based feed recommendation (weather-based)
 
 **Tech Stack:**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -185,6 +188,7 @@ A real-time health consultation platform with AI-powered doctor recommendations.
 - Booking consultation system
 
 **Tech Stack:**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
