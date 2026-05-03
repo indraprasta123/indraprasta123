@@ -136,10 +136,10 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/indraprasta-dwinanda-fahreza-b1878a278/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://indraprasta123.github.io/indraprastaPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
