@@ -100,13 +100,13 @@ I build systems that are not just functional, but scalable and impactful.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight&cache_seconds=60&v=1)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indraprasta123&layout=compact&theme=tokyonight&cache_seconds=60&v=1)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=indraprasta123&layout=compact&theme=tokyonight)
 
 ---
 
