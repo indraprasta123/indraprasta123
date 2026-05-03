@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indra Prasta</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff7300,50:00ffea,75:7a00ff,100:ff00c8&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ffae00&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -86,6 +86,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 - Real-time shipping
 
 **Tech Stack:**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
@@ -100,6 +101,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 - Responsive UI
 
 **Tech Stack:**
+
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
 
@@ -112,6 +114,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 - Geo tracking
 
 **Tech Stack:**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)
 
@@ -124,6 +127,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 - Booking system
 
 **Tech Stack:**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge)
 
