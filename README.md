@@ -10,23 +10,14 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 25px; border-radius: 15px; color: white;">
+## 🎨 About Me
 
-<h2>🎨 About Me</h2>
+Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
 
-<p>
-Hi, I'm <b>Indra Prasta</b> — a <b>Frontend Developer</b> focused on building clean, responsive, and user-friendly web interfaces.<br><br>
-
-✨ Passionate about crafting engaging UI/UX experiences<br>
-⚡ Skilled in <b>React, Next.js, and modern frontend technologies</b><br>
-🚀 Currently developing scalable frontend systems for real-world applications<br>
-🌍 Based in <b>Indonesia</b><br><br>
-
-I turn ideas into interactive, visually appealing, and high-performance web applications.
-
-</p>
-
-</div>
+- ✨ Passionate about UI/UX
+- ⚡ React, Next.js, Tailwind enthusiast
+- 🚀 Building real-world applications
+- 📍 Indonesia
 
 ---
 
@@ -34,41 +25,35 @@ I turn ideas into interactive, visually appealing, and high-performance web appl
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Context API](https://img.shields.io/badge/-Context%20API-black?style=flat-square&logo=react)
-![Apollo](https://img.shields.io/badge/-Apollo-black?style=flat-square&logo=apollo-graphql)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### ⚙️ Backend (Supporting Skills)
+### ⚙️ Backend (Support)
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
 ---
 
 ### 🗄 Database
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### ☁️ Tools & Deployment
+### ☁️ Tools
 
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -78,66 +63,38 @@ I turn ideas into interactive, visually appealing, and high-performance web appl
 
 ---
 
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=indraprasta123&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 Featured Projects
 
-### 🛒 Fayda Store — E-commerce Platform
+### 🛒 Fayda Store
 
-Frontend-focused marketplace UI with modern UX and integrated backend services.
+Modern marketplace UI with clean UX and integrated payment system
 
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
-![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square)
-![Midtrans](https://img.shields.io/badge/-Midtrans-black?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ---
 
-### 🛍 Lazandra — E-commerce UI Platform
+### 🛍 Lazandra
 
-Clean and responsive product exploration interface with filtering and wishlist system.
+Responsive e-commerce UI with filtering & wishlist
 
-**Tech Stack:**
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-### 🐐 TernakQu — Dashboard System
+## 📫 Connect With Me
 
-Interactive dashboard UI for livestock monitoring and management.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-
----
-
-### 🏥 Medinear — Health Consultation UI
-
-Real-time chat interface and doctor recommendation system with clean UX.
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
-
----
-
-## 📫 Contact
-
-- 📧 Email: your@email.com
-- 💼 LinkedIn: -
-- 🌐 Portfolio: -
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
