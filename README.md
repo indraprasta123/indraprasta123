@@ -15,7 +15,7 @@
 Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
 
 - ✨ Passionate about UI/UX & interaction design
-- ⚡ React, Next.js, Tailwind enthusiast
+- ⚡ React, Next.js, SASS Tailwind enthusiast
 - 🚀 Building real-world applications
 - 📍 Indonesia
 
@@ -31,6 +31,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
