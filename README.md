@@ -74,7 +74,17 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indraprasta123&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=indraprasta123&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=indraprasta123&theme=tokyonight" />
+</p>
 
 ---
 
