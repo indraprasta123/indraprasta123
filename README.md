@@ -81,69 +81,79 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 
 ---
 
-### 🛒 Fayda Store — Marketplace (April 2026)
+### 🛒 [Fayda Store](https://your-fayda-demo-link.com) — Marketplace (April 2026)
 
 Full-stack e-commerce application with AI-powered search and real-time features.
 
+🔗 [Live Demo](https://your-fayda-demo-link.com) | [Repository](https://github.com/username/fayda-store)
+
 **Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge)
 ![Midtrans](https://img.shields.io/badge/Midtrans-00AEEF?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-FF6F00?style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge)
 
 ---
 
-### 🛍 Lazandra — E-commerce (April 2026)
+### 🛍 [Lazandra](https://your-lazandra-demo.com) — E-commerce (April 2026)
 
 Product discovery platform with filtering, wishlist, and responsive UI.
 
+🔗 [Live Demo](https://your-lazandra-demo.com) | [Repository](https://github.com/username/lazandra)
+
 **Tech Stack:**
 
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 
 ---
 
-### 🐐 TernakQu — Farm Management System (March 2026)
+### 🐐 [TernakQu](https://your-ternakqu-demo.com) — Farm Management (March 2026)
 
 Livestock management system with AI-based recommendations.
 
+🔗 [Live Demo](https://your-ternakqu-demo.com) | [Repository](https://github.com/username/ternakqu)
+
 **Tech Stack:**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
 ---
 
-### 🏥 Medinear — Health App (March 2026)
+### 🏥 [Medinear](https://your-medinear-demo.com) — Health App (March 2026)
 
 Real-time health consultation platform with AI-powered recommendation.
 
+🔗 [Live Demo](https://your-medinear-demo.com) | [Repository](https://github.com/username/medinear)
+
 **Tech Stack:**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
+
+---
 
 ---
 
