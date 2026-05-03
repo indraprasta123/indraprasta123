@@ -49,6 +49,7 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
