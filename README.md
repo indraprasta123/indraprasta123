@@ -81,11 +81,11 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 
 ---
 
-### 🛒 [Fayda Store](https://your-fayda-demo-link.com) — Marketplace (April 2026)
+### 🛒 [Fayda Store](https://faydaa.store/) — Marketplace (April 2026)
 
 Full-stack e-commerce application with AI-powered search and real-time features.
 
-🔗 [Live Demo](https://your-fayda-demo-link.com) | [Repository](https://github.com/username/fayda-store)
+🔗 [Live Demo](https://faydaa.store/)
 
 **Tech Stack:**
 
@@ -102,11 +102,11 @@ Full-stack e-commerce application with AI-powered search and real-time features.
 
 ---
 
-### 🛍 [Lazandra](https://your-lazandra-demo.com) — E-commerce (April 2026)
+### 🛍 [Lazandra](https://lazandra.vercel.app/) — E-commerce (April 2026)
 
 Product discovery platform with filtering, wishlist, and responsive UI.
 
-🔗 [Live Demo](https://your-lazandra-demo.com) | [Repository](https://github.com/username/lazandra)
+🔗 [Live Demo](https://lazandra.vercel.app/)
 
 **Tech Stack:**
 
@@ -117,11 +117,11 @@ Product discovery platform with filtering, wishlist, and responsive UI.
 
 ---
 
-### 🐐 [TernakQu](https://your-ternakqu-demo.com) — Farm Management (March 2026)
+### 🐐 [TernakQu](https://ternakqu-bd49d.web.app/) — Farm Management (March 2026)
 
 Livestock management system with AI-based recommendations.
 
-🔗 [Live Demo](https://your-ternakqu-demo.com) | [Repository](https://github.com/username/ternakqu)
+🔗 [Live Demo](https://ternakqu-bd49d.web.app/)
 
 **Tech Stack:**
 
@@ -136,11 +136,11 @@ Livestock management system with AI-based recommendations.
 
 ---
 
-### 🏥 [Medinear](https://your-medinear-demo.com) — Health App (March 2026)
+### 🏥 [Medinear](https://gp-medinear.web.app/) — Health App (March 2026)
 
 Real-time health consultation platform with AI-powered recommendation.
 
-🔗 [Live Demo](https://your-medinear-demo.com) | [Repository](https://github.com/username/medinear)
+🔗 [Live Demo](https://gp-medinear.web.app/)
 
 **Tech Stack:**
 
