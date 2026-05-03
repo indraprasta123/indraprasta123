@@ -100,34 +100,85 @@ I build systems that are not just functional, but scalable and impactful.
 
 ## 📊 GitHub Stats
 
-![Indraprasta stats](https://github-readme-stats-sigma-five.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
 
-![Indraprasta Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=indraprasta123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=indraprasta123&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🛒 Fayda Store
+### 🛒 Fayda Store — E-commerce Platform (April 2026)
 
-Marketplace web application with:
+A full-stack web-based marketplace application with advanced features including AI-powered search, real-time delivery calculation, and integrated payment gateway.
 
-- Cart & Checkout System
-- Payment Integration (Midtrans)
-- Order Management
-- Location-based delivery
+**Key Features:**
+
+- Natural language & image-based product search
+- Shopping cart & checkout system
+- Multiple payment methods (Midtrans)
+- Real-time shipping cost calculation
+- Authentication & notification system
+
+**Tech Stack:**
+Node.js, Express.js, PostgreSQL, Sequelize, React.js, Tailwind CSS, Axios, Midtrans API, OpenRouteService API, Nominatim API, Google Gemini AI, Nodemailer, Telegram Bot API
+
+---
+
+### 🛍 Lazandra — E-commerce Platform (April 2026)
+
+A web-based e-commerce platform to explore trending products with advanced filtering and wishlist features.
+
+**Key Features:**
+
+- Product search, filter & sorting
+- Wishlist system
+- Detailed product pages
+
+**Tech Stack:**
+Next.js, MongoDB, REST API, Vercel
+
+---
+
+### 🐐 TernakQu — Farm Management System (March 2026)
+
+A web-based system for managing livestock and farm operations efficiently with AI-based recommendations.
+
+**Key Features:**
+
+- Livestock tracking (age, health, breed)
+- Geolocation tracking
+- AI-based feed recommendation (weather-based)
+
+**Tech Stack:**
+Node.js, Express.js, PostgreSQL, Sequelize, React.js, Redux, OpenWeatherMap API, Google OAuth, JWT
+
+---
+
+### 🏥 Medinear — Health Consultation App (March 2026)
+
+A real-time health consultation platform with AI-powered doctor recommendations.
+
+**Key Features:**
+
+- Real-time chat (WebSocket)
+- Doctor recommendation using AI (Gemini)
+- Booking consultation system
+
+**Tech Stack:**
+PostgreSQL, Sequelize, REST API, WebSocket, React, Express, AWS, Firebase, Cloudinary
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: your@email.com
-- 🌐 Portfolio: -
 - 💼 LinkedIn: -
+- 🌐 Portfolio: -
 
 ---
 
