@@ -100,7 +100,7 @@ I build systems that are not just functional, but scalable and impactful.
 
 ## 📊 GitHub Stats
 
-![Indraprasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=indraprasta123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=indraprasta123&show_icons=true&theme=tokyonight)
 
 ---
 
