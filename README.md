@@ -125,7 +125,14 @@ A full-stack web-based marketplace application with advanced features including 
 - Authentication & notification system
 
 **Tech Stack:**
-Node.js, Express.js, PostgreSQL, Sequelize, React.js, Tailwind CSS, Axios, Midtrans API, OpenRouteService API, Nominatim API, Google Gemini AI, Nodemailer, Telegram Bot API
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
+![Midtrans](https://img.shields.io/badge/-Midtrans-black?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini%20AI-black?style=flat-square)
 
 ---
 
@@ -140,7 +147,10 @@ A web-based e-commerce platform to explore trending products with advanced filte
 - Detailed product pages
 
 **Tech Stack:**
-Next.js, MongoDB, REST API, Vercel
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ---
 
@@ -155,7 +165,12 @@ A web-based system for managing livestock and farm operations efficiently with A
 - AI-based feed recommendation (weather-based)
 
 **Tech Stack:**
-Node.js, Express.js, PostgreSQL, Sequelize, React.js, Redux, OpenWeatherMap API, Google OAuth, JWT
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
 
 ---
 
@@ -170,7 +185,12 @@ A real-time health consultation platform with AI-powered doctor recommendations.
 - Booking consultation system
 
 **Tech Stack:**
-PostgreSQL, Sequelize, REST API, WebSocket, React, Express, AWS, Firebase, Cloudinary
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ---
 
