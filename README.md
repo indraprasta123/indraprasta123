@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Indra Prasta</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ffae00&height=200&section=header&text=Frontend%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ffae00&height=200&section=header&text=Fullstack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+Next.js+%7C+UI+UX;Building+Clean+Interfaces&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🎨 About Me
 
-Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.
+Fullstack Developer with experience in building modern, responsive, and user-friendly web applications using frontend and backend technologies.
 
-- ✨ Passionate about UI/UX & interaction design
-- ⚡ React, Next.js, SASS Tailwind enthusiast
-- 🚀 Building real-world applications
+- ✨ Passionate about web development and UI/UX
+- ⚡ Experienced with SASS React, Next.js, Node.js, Express.js, Tailwind CSS, and PostgreSQL
+- 🚀 Building real-world fullstack applications
 - 📍 Indonesia
 
 ---
@@ -40,7 +40,10 @@ Frontend Developer focused on building modern, responsive, and user-friendly web
 
 ---
 
-### ⚙️ Backend (Support)
+### ⚙️ Backend 
+
+
+
 
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
