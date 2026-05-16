@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Indra Prasta</h1>
+<h1 align="center">Hi 👋, I'm Indraprasta Dwinanda Fahreza</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a00,100:ffae00&height=200&section=header&text=Software%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
